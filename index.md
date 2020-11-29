@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>胡晨宇</h1>
+      <p><b>本科毕业生</b></p>
+      <p><b>浙江万里学院</b></p>
+      <p><b>邮箱：574260419@qq.com</b></p>
+      <p><b>地址：宁波市鄞州区莫盛路1519号万里学院，邮编315100</b></p>
+    </td>
+    <td width="25%">
+      <img src="/证件照.jpg" width="100%">      % 
+    </td>
+  </tr>
+</table>
+### 个人信息
+#### 年龄：18
+#### 民族：汉
+#### 专业: 通信工程
+#### 语言：英语四级
+#### 手机号：18058683679
+#### 地址：浙江省绍兴市柯桥区世贸名流
 
-You can use the [editor on GitHub](https://github.com/hcy201/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 最新消息
+1.消息一:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###荣誉奖励
+- 奖学金
+- 荣誉称号
+- 比赛获奖
 
-### Markdown
+###工作经历
+- 工作经历一
+- 工作经历二
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 期望职位
 
-```markdown
-Syntax highlighted code block
+### 期望资薪
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hcy201/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 期望城市
